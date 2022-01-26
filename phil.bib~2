@@ -2299,7 +2299,7 @@
 	booktitle = {Contemporary Debates in Political Philosophy},
 	chapter = {11},
 	isbn = {9781444310399},
-	keywords = {democracy and its limits - the value of democracy; democratic instrumentalism - combination of two ideas; ideal of democracy; democracy is not all or nothing - political order can be democratic or undemocratic to various degrees; in favor of instrumentalism - fundamental moral right to a democratic; or alternatively; that democracy is intrinsically just; instrumentalist case against democracy; democracy and mutual respect; rights; disagreement; and democracy; political liberalism - philosophers associating right to a democratic say with themes of political liberalism; ideal of democratic equality},
+	keywords = {democracy and its limits - the value of democracy, democratic instrumentalism - combination of two ideas, ideal of democracy, democracy is not all or nothing - political order can be democratic or undemocratic to various degrees, in favor of instrumentalism - fundamental moral right to a democratic, or alternatively, that democracy is intrinsically just, instrumentalist case against democracy, democracy and mutual respect, rights, disagreement, and democracy, political liberalism - philosophers associating right to a democratic say with themes of political liberalism, ideal of democratic equality},
 	pages = {195–212},
 	publisher = {John Wiley \& Sons, Ltd},
 	title = {The Supposed Right to a Democratic Say},
@@ -2341,7 +2341,7 @@
 	doi = {10.1002/9781444310399.ch13},
 	eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781444310399.ch13},
 	isbn = {9781444310399},
-	keywords = {deliberative democracy; practical impossibility or desirability of either participation or deliberation in any meaningful or substantial sense; participatory democracy - most citizens will be better off if their participation in politics is very limited; social capital and participatory democracy; ideal theory; political debate - about truth and values or ends; means and expertise - knowledge having distinct roles in governance; conflicting interests - to this day; commentators referring to public good; audience democracy - Bernard Manin (1997) - argueing that representative democracy transforms into “audience democracy” in recent times},
+	keywords = {deliberative democracy, practical impossibility or desirability of either participation or deliberation in any meaningful or substantial sense, participatory democracy - most citizens will be better off if their participation in politics is very limited, social capital and participatory democracy, ideal theory, political debate - about truth and values or ends, means and expertise - knowledge having distinct roles in governance, conflicting interests - to this day, commentators referring to public good, audience democracy - Bernard Manin (1997) - argueing that representative democracy transforms into “audience democracy” in recent times},
 	pages = {229–246},
 	publisher = {John Wiley \& Sons, Ltd},
 	title = {Deliberative Democracy},
@@ -2967,7 +2967,7 @@
 	year = {2021}
 }
 
-@incollection{New1,
+@incollection{WeberTorre2020,
 	author = {Clas Weber and Stephan Torre},
 	booktitle = {The Routledge Handbook of Linguistic Reference},
 	edition = 1,
