@@ -2967,7 +2967,7 @@
 	year = {2021}
 }
 
-@incollection{WeberTorre2020,
+@incollection{New1,
 	author = {Clas Weber and Stephan Torre},
 	booktitle = {The Routledge Handbook of Linguistic Reference},
 	edition = 1,
@@ -3005,16 +3005,6 @@
 	title = {What Are Centered Worlds?},
 	volume = {62},
 	year = {2012}
-}
-
-@incollection{Lewis1983ADDADS,
-	author = {David Lewis},
-	booktitle = {Philosophical Papers Volume I},
-	location = {New York and Oxford},
-	pages = {133-159},
-	publisher = {Oxford University Press},
-	title = {Attitudes \emphDe Dicto and \emphDe Se},
-	year = {1983}
 }
 
 @book{ClaytonWilliams2000-IdealEquality,
